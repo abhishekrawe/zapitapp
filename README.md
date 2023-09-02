@@ -1,4 +1,9 @@
 # zapitapp
+A zapit app mock-up design using Flutter 
 
-![Screenshot 2023-07-31 133716](https://github.com/abhishekrawe/zapitapp/assets/65603830/0a08dc22-157d-48d2-b97e-387c2f9a9619)
-![Screenshot 2023-07-31 133820](https://github.com/abhishekrawe/zapitapp/assets/65603830/eb22f332-e242-4ec9-8c8f-42e8e7696359)
+
+
+
+| Design 1                 | Design 2            |
+| ---------------------- | ---------------------- |
+| ![Screenshot 2023-07-31 133716](https://github.com/abhishekrawe/zapitapp/assets/65603830/04039646-f04c-4c9a-87d0-c4bda51f5daa) | ![Screenshot 2023-07-31 133820](https://github.com/abhishekrawe/zapitapp/assets/65603830/f5fe5666-255f-45bd-93d5-597705fe0a4e) |
